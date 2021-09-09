@@ -1,5 +1,5 @@
 # Progressive Web Apps
-
+This is just a sample portfolio of current premium web app version og INSHOT
 # How to Use
 You need [Node.js](https://nodejs.org) installed on your machine. Simply download the installer from [nodejs.org](https://nodejs.org) and go through the installation steps.
 
